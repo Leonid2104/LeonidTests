@@ -1,0 +1,51 @@
+.headerZag{
+  color: white;
+  margin-top: 0;
+  padding-top: 20px;
+  font-size: 40px;
+}
+.headerCont{
+  height: 300px;
+  background-color: rgb(29, 26, 26);
+  text-align: center;
+}
+.btnSort{
+  width: 80px;
+  height: 40px;
+  color:rgb(81, 82, 82);
+  background-color: white;
+}
+.btnActive{
+  width: 80px;
+  height: 40px;
+  border: none;
+  background-color:rgb(81, 82, 82);
+  color: white;
+}
+.filters{
+  display: flex;
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+}
+.filtItem{
+  color :white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.activeItem {
+  color:rgb(81, 82, 82);
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.inputSearch{
+  height: 30px;
+}
+.btnSearch{
+  height: 35px;
+  width: 60px;
+  background-color: rgb(81, 82, 82);
+  color : white;
+  border-radius: 3px;
+}
