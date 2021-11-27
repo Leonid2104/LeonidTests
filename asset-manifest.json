@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LeonidTests/static/css/main.0267f260.chunk.css",
-    "main.js": "/LeonidTests/static/js/main.781927c6.chunk.js",
-    "main.js.map": "/LeonidTests/static/js/main.781927c6.chunk.js.map",
+    "main.js": "/LeonidTests/static/js/main.bdbc58cc.chunk.js",
+    "main.js.map": "/LeonidTests/static/js/main.bdbc58cc.chunk.js.map",
     "runtime-main.js": "/LeonidTests/static/js/runtime-main.de504bad.js",
     "runtime-main.js.map": "/LeonidTests/static/js/runtime-main.de504bad.js.map",
     "static/js/2.38d76bec.chunk.js": "/LeonidTests/static/js/2.38d76bec.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.de504bad.js",
     "static/js/2.38d76bec.chunk.js",
     "static/css/main.0267f260.chunk.css",
-    "static/js/main.781927c6.chunk.js"
+    "static/js/main.bdbc58cc.chunk.js"
   ]
 }
